@@ -1,3 +1,8 @@
+/*
+ * All the code contained here comes from "Mastering Algorithms With C" written
+ * by Kyle Loudon and published by O'Reilly. They should be contacted with regards
+ * to licensing and distribution.
+ */
 #ifndef LIST_H
 #define LIST_H
 
